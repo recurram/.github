@@ -1,1 +1,1 @@
-Shared community files for [the Recurram Team organization](https://github.com/recurram)
+Shared community files for [the Recurram organization](https://github.com/recurram)
