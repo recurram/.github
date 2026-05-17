@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for improving shared Recurram organization files.
+Thank you for improving shared Twilic organization files.
 
 ## Scope
 
